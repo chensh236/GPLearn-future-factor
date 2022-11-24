@@ -1,0 +1,6 @@
+/venv/*
+/dataset/*
+/result/*
+/images
+/result_backup/*
+/docs/*
